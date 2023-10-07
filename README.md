@@ -47,7 +47,7 @@ Estoy familiarizado con una amplia gama de tecnologías, incluyendo:
 - PostgreSql
 ## Contacto
 
-Si deseas colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/angel-bryan-luis-roman-a09328260/) o también puedes contactarte a traves de [correo](angelones_24@hotmail.com). ¡Espero poder conectar contigo!
+Si deseas colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/angel-bryan-luis-roman-a09328260/) o también puedes contactarte a traves de [correo](mailto:angelones_24@hotmail.com). ¡Espero poder conectar contigo!
 
 ## Licencia
 
