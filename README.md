@@ -1,5 +1,6 @@
 # Angel Bryan Luis Roman
 
+![Alt text](logo.jpeg)
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador full stack con conocimientos en una variedad de tecnologías de desarrollo web. A continuación, te presento algunos de los proyectos en los que he trabajado y las tecnologías que he utilizado:
 
 ## Proyectos Destacados
