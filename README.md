@@ -1,6 +1,7 @@
 # Angel Bryan Luis Roman
 
-![Alt text](logo.jpeg)
+![Imagen de WhatsApp 2023-10-10 a las 00 55 20_9c6d8b3b](https://github.com/NONHIGH/NONHIGH/assets/119120734/6565b3e7-024d-43af-b0ef-0b31d1ee7be0)
+
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador full stack con conocimientos en una variedad de tecnologías de desarrollo web. A continuación, te presento algunos de los proyectos en los que he trabajado y las tecnologías que he utilizado:
 
 ## Proyectos Destacados
